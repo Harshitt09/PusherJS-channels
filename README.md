@@ -21,8 +21,7 @@ npm start
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Harshit Tyagi
 
 ### Version
 
